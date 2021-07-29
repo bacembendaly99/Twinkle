@@ -1,6 +1,4 @@
-## Written by Bacem Ben Daly
-
-#Twinkle
+## Twinkle
 
 Twinkle is a Flutter App : market place for Customized T-shirts and accessories
 
@@ -21,3 +19,6 @@ To run the project on your computer follow this steps :
 ```
 
 This is an open source project , you can use it wherever you want Peace Coders :)
+
+
+#By Bacem Ben Daly
